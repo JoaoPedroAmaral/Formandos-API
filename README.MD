@@ -96,6 +96,7 @@ Branches utilizadas:
 2. **homol** – homologação e integração.
 3. **main** – produção.
 
+**Regras sugeridas:**
 
 * Todos os **Merge Requests** devem ser aprovados antes do merge.
 * Proteger branches `homol` e `main` para evitar pushes diretos.
