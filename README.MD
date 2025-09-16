@@ -1,5 +1,3 @@
-Perfeito! Aqui está um exemplo de **README.md** completo e profissional para o seu projeto “Formandos API” em Spring Boot:
-
 ````markdown
 # Formandos API
 
@@ -115,9 +113,4 @@ Branches utilizadas:
 
 João Pedro Amaral – [GitHub](https://github.com/JoaoPedroAmaral) – [joaopedro@example.com](mailto:joaopedro@example.com)
 
-```
-
-Se você quiser, posso criar **uma versão mais enxuta e moderna**, ideal para mostrar rapidamente no GitHub com badges, instruções de push/merge e visual limpo.  
-
-Quer que eu faça essa versão também?
 ```
